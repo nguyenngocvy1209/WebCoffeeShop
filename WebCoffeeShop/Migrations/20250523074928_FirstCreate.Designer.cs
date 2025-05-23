@@ -11,8 +11,8 @@ using WebCoffeeShop.Data;
 namespace WebCoffeeShop.Migrations
 {
     [DbContext(typeof(CoffeeshopDbContext))]
-    [Migration("20250422030734_seeddata")]
-    partial class seeddata
+    [Migration("20250523074928_FirstCreate")]
+    partial class FirstCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
