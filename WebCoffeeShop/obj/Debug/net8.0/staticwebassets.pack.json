@@ -13,6 +13,50 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\Americano.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\Americano.jpg.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\VietNam-coffee.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\VietNam-coffee.jpg.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\images\\hashes.json"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\images\\uk-tea.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\uk-tea.jpg.jpg"
+    },
+    {
       "Id": "D:\\THUCHANHLTWEB\\WebCoffeeShop\\WebCoffeeShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
