@@ -10,6 +10,8 @@ namespace WebCoffeeShop.Data
         {
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ShoppingCartItem> ShoppingCartItems {  get; set; }
+        
         //seed date
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

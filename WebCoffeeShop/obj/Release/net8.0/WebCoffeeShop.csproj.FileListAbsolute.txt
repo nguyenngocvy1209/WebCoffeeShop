@@ -1,0 +1,9 @@
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.csproj.AssemblyReference.cache
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.AssemblyInfoInputs.cache
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.AssemblyInfo.cs
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.csproj.CoreCompileInputs.cache
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.MvcApplicationPartsAssemblyInfo.cache
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.RazorAssemblyInfo.cache
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.RazorAssemblyInfo.cs
+D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop\obj\Release\net8.0\WebCoffeeShop.sourcelink.json
