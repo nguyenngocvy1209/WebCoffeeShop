@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\THUCHANHLTWEB\WebCoffeeShop\WebCoffeeShop
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Contact/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Orders/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Orders/CheckoutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0Q29tcGxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/THUCHANHLTWEB/WebCoffeeShop/WebCoffeeShop/Views/Products/Detail.cshtml]
